@@ -1,0 +1,26 @@
+table, tbody, td, tr{
+
+    border : 2px solid black;
+    border-collapse: collapse;
+    width : 100%;
+    padding:10px;
+
+}
+
+tr:hover {
+
+    background-color: lightblue;
+
+}
+
+th {
+    color : white;
+    background-color : green;
+    font-size: 50px;
+}
+
+#button1 {
+    
+    float : right;
+    
+}
